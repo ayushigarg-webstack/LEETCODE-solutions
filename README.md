@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -34,8 +36,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
