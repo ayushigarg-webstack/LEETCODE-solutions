@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0008-string-to-integer-atoi) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
