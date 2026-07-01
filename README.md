@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0231-power-of-two) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
