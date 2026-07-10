@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0234-palindrome-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
