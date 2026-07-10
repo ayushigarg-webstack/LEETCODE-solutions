@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Bit Manipulation
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0328-odd-even-linked-list) |
 ## Stack
