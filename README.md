@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0039-combination-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
