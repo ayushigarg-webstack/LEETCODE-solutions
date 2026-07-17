@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0039-combination-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0216-combination-sum-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1288-remove-covered-intervals) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0039-combination-sum) |
+| [0216-combination-sum-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0216-combination-sum-iii) |
 ## Number Theory
 |  |
 | ------- |
