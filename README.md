@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0022-generate-parentheses) |
+| [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
 ## Number Theory
 |  |
 | ------- |
