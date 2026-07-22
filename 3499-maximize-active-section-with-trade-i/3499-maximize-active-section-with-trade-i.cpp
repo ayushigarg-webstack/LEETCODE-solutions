@@ -1,32 +1,31 @@
 class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
-        int ones = 0;
-        for (char c : s)
-            if (c == '1')
-                ones++;
-
-        vector<pair<char,int>> runs;
-
-        for (char c : s) {
-            if (runs.empty() || runs.back().first != c)
-                runs.push_back({c, 1});
+        int n = s.length();
+        int activeCount = count(s.begin(), s.end(), '1');
+        vector<int> inactiveBlocks;
+        int i = 0;
+        while(i<n)
+        {
+            if(s[i]=='0')
+            {
+                int start = i;
+                while(s[i]=='0' && i<n)
+                {
+                    i++;
+                }
+                inactiveBlocks.push_back(i-start);
+            }
             else
-                runs.back().second++;
-        }
-
-        int ans = ones;
-
-        for (int i = 1; i + 1 < runs.size(); i++) {
-            if (runs[i].first == '1' &&
-                runs[i - 1].first == '0' &&
-                runs[i + 1].first == '0') {
-
-                ans = max(ans,
-                          ones + runs[i - 1].second + runs[i + 1].second);
+            {
+                i++;
             }
         }
-
-        return ans;
+        int maxPairSum = 0;
+        for(int i = 1; i < inactiveBlocks.size(); i++)
+        {
+            maxPairSum = max(maxPairSum, inactiveBlocks[i]+inactiveBlocks[i-1]);
+        }
+        return maxPairSum+activeCount;
     }
 };
