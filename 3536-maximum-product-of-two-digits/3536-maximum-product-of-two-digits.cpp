@@ -3,10 +3,7 @@ public:
     int maxProduct(int n) {
         int max1 = 0;
         int max2 = 0;
-        int N=n;
-        int i=0;
-        int j=0;
-        int iOfMax;
+        int N=n, i=0, j=0, iOfMax;
         while(N>0)
         {
             int x = N%10;
