@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
+| [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0994-rotting-oranges) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
