@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Linked List
