@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -244,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -274,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3310-remove-methods-from-project) |
@@ -354,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
