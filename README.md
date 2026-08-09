@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1140-stone-game-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -386,4 +391,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
