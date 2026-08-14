@@ -2,7 +2,7 @@ class Solution {
 public:
     int maximumLengthSubstring(string s) {
         int i=0, j=0;
-        unordered_map<int,int> freq;
+        unordered_map<char,int> freq;
         int k =2;
         int length=0,maxLength=0;
         while(j<s.length())
