@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0542-01-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
