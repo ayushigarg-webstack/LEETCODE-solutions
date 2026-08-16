@@ -1,0 +1,19 @@
+class Solution {
+public:
+    bool stoneGameIX(vector<int>& stones) {
+         int cnt[3] = {0};
+
+        for (int x : stones) {
+            cnt[x % 3]++;
+        }
+
+        // Even number of 0-remainder stones
+        if (cnt[0] % 2 == 0) {
+            // We need at least one 1 and one 2
+            return cnt[1] > 0 && cnt[2] > 0;
+        }
+
+        // Odd number of 0-remainder stones
+        return abs(cnt[1] - cnt[2]) >= 3;
+    }
+};
