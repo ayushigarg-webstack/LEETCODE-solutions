@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0198-house-robber) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
