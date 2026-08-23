@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2029-stone-game-ix) |
 ## Topological Sort
 |  |
