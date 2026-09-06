@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0198-house-robber) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
