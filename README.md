@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-cinema-seat-allocation](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1872-stone-game-viii) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3312-sorted-gcd-pair-queries) |
