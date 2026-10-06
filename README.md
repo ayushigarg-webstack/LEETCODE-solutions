@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0191-number-of-1-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
