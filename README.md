@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0733-flood-fill) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
