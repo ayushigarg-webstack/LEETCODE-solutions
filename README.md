@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1140-stone-game-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0191-number-of-1-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0785-is-graph-bipartite) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -512,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -585,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Nim Game
 |  |
 | ------- |
@@ -594,12 +601,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -617,4 +626,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
