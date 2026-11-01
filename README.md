@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0282-expression-add-operators) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0877-stone-game) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayushigarg-webstack/LEETCODE-solutions/tree/master/0733-flood-fill) |
