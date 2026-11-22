@@ -1,0 +1,17 @@
+class Solution {
+public:
+    bool checkString(string s) {
+        int n = s.length();
+        for(int i = 0; i < n; i++)
+        {
+            if(s[i] == 'b')
+            {
+                for(int j = i; j < s.length(); j++)
+                {
+                    if(s[j] == 'a') return false;
+                }
+            }
+        }
+        return true;
+    }
+};
