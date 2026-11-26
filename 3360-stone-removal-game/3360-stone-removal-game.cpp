@@ -2,7 +2,7 @@ class Solution {
 public:
     bool canAliceWin(int n) {
         if(n<10) return false;
-        n=n-10;
+        n-=10;
         int i = 9;
         while(n-i>=0) {
             n-=i;
